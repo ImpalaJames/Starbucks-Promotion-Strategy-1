@@ -14,9 +14,7 @@ NIR depicts how much is made (or lost) by sending out the promotion. Mathematica
 
 
 
-Below you can find the training data provided. Explore the data and different optimization strategies.
-
-How To Test Your Strategy?
+## How To Test Your Strategy?
 When you feel like you have an optimization strategy, complete the promotion_strategy function to pass to the test_results function.
 From past data, we know there are four possible outomes:
 
@@ -31,4 +29,3 @@ The metrics are only being compared for the individuals we predict should obtain
 
 Comparing quadrant I to II then gives an idea of how well your promotion strategy will work in the future.
 
-Get started by reading in the data below. See how each variable or combination of variables along with a promotion influences the chance of purchasing. When you feel like you have a strategy for who should receive a promotion, test your strategy against the test dataset used in the final test_results function.
